@@ -22,7 +22,7 @@ import firebase from "firebase";
 import DataService, { db } from "../dataservice";
 //import {db} from "../dataservice";
 export default {
-  name: "drinks",
+  name: "favourite",
   data() {
     return {
       drinks: [],
