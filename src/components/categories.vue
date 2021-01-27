@@ -45,7 +45,7 @@
 import DataService from "../dataservice";
 import Vue2Filters from "vue2-filters";
 export default {
-  name: "category",
+  name: "categories",
   data() {
     return {
       categories: [],
