@@ -85,7 +85,7 @@ import firebase from "firebase/app";
 
 //import DataService from "./dataservice";
 export default {
-  name: "Reveal",
+  name: "App",
   data: () => ({
     menuVisible: false,
     isLoggedin: false,
