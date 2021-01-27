@@ -33,6 +33,9 @@ let router = new VueRouter({
   mode: "history",
   routes: [
     {
+      path:"/",
+      redirect:"/home"},
+    {
       path: "/home",
       name: "home",
       component: home
