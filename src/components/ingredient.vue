@@ -20,7 +20,7 @@
 import DataService from "../dataservice";
 import Vue2Filters from "vue2-filters";
 export default {
-  name: "drinks",
+  name: "ingredient",
   data() {
     return {
       drinks: [],
