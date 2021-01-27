@@ -111,7 +111,7 @@ import firebase from "firebase";
 import DataService from "../dataservice";
 import { db } from "../dataservice";
 export default {
-  name: "homepage",
+  name: "home",
   data() {
     return {
       drinks: [],
