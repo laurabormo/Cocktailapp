@@ -71,7 +71,7 @@ import firebase from "firebase";
 import DataService from "../dataservice";
 import { db } from "../dataservice";
 export default {
-  name: "specifiche",
+  name: "drinks",
   data() {
     return {
       drinks: [],
