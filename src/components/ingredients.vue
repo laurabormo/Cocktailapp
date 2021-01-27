@@ -22,7 +22,7 @@
 import DataService from "../dataservice";
 import Vue2Filters from "vue2-filters";
 export default {
-  name: "ingredient",
+  name: "ingredients",
   data() {
     return {
       ingredients: [],
